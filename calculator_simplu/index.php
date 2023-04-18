@@ -48,7 +48,7 @@
 			<option value="*">Înmulțire [x]</option>
 			<option value="/">Împărțire [:]</option>
 		</select><br><br>
-		<input class="button" type="submit" name="submit" value="Calculeaza">
+		<input class="button" type="submit" name="submit" value="Calculează">
 
         <div class="result">
         <?php  	echo "<h2>Rezultat:  $result</h2>"; ?>
