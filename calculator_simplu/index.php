@@ -35,7 +35,7 @@
 	?>
 
 <div class="calculator">
-	<h1>HTML+CSS+PHP Calculator</h1>
+	<h1 class="title">HTML+CSS+PHP Calculator</h1>
 	<form method="post" action="index.php">
 		<label>Numărul 1:</label>
 		<input class="number" type="text" name="firstNumber"><br><br>
